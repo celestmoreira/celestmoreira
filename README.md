@@ -1,4 +1,4 @@
-# Hello World! I'm Celest,
+# Hello World, I'm Celest!
 
 **IT & Cybersecurity | Long Beach State MIS '26**
 
