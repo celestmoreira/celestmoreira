@@ -1,4 +1,4 @@
-# Hi, I'm Celest Moreira
+# Hello World! I'm Celest,
 
 **IT & Cybersecurity | Long Beach State MIS '26**
 
