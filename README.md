@@ -1,6 +1,6 @@
 # Hello World, I'm Celest!
 
-**IT & Cybersecurity | Long Beach State MIS '26**
+**IT & Cybersecurity | California State University, Long Beach - Management Information Systems '26**
 
 I'm a graduating Management Information Systems student at Cal State Long Beach building hands on technical skills in cybersecurity, IT support, and cloud security. This GitHub is my working portfolio where I document everything I build, configure, and learn.
 
