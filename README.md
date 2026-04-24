@@ -15,7 +15,6 @@ I'm a graduating Management Information Systems student at Cal State Long Beach 
 ## Certifications
 
 - Google IT Support Professional Certificate
-- AWS Cloud Practitioner
 - Google Cybersecurity Professional Certificate (In Progress)
 - CompTia A+ (In Progress)
 
